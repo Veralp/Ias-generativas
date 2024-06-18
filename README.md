@@ -32,3 +32,6 @@ Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical
 https://base10.vc/post/generative-ai-mission-critical/
 
 
+#LabDIONattyOrNot
+
+
